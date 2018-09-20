@@ -1,0 +1,5 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/95E8B566-315D-4BED-8C08-41D3BB34A99A/d/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54818:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/95E8B566-315D-4BED-8C08-41D3BB34A99A/d/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/Sahany/IdeaProjects/Spaced/out/production/Spaced Main
+
+13.601470508735444
+9.9498743710662
+Process finished with exit code 0
